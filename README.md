@@ -2,6 +2,13 @@
 
 Investigation of the Two-Real-Singlet Model (TRSM) in the context of cosmological phase transitions and the detectability of the resulting gravitational wave signals.
 
+## Attribution
+
+Stefanos Papadopoulos 
+MSc Research Project  
+Stockholm University  
+stefacdc73@gmail.com
+
 ## 🔬 Scientific Motivation
 
 First-order phase transitions in extensions of the Standard Model can generate observable gravitational wave signals. The TRSM provides a well-motivated framework to explore this phenomenon. This project investigates:
@@ -14,17 +21,8 @@ First-order phase transitions in extensions of the Standard Model can generate o
 
 ## Software used
 
-This project uses the **CosmoTransitions** package by Carroll L. Wainwright (2012):
+This project uses the **CosmoTransitions** package by Carroll L. Wainwright (2011):
 
 *CosmoTransitions: Computing Cosmological Phase Transition Temperatures and Bubble Profiles with Multiple Fields*.
 
-If you use this work for academic research please cite:
-
-```bibtex
- @article{Wainwright2011,
-  title   = {CosmoTransitions: Computing Cosmological Phase Transitions},
-  author  = {Wainwright, Carroll L.},
-  journal = {arXiv preprint arXiv:1109.4189},
-  year    = {2012},
-  url     = {https://arxiv.org/abs/1109.4189}
-}
+If you use this work for academic research please cite: https://arxiv.org/abs/1109.4189
