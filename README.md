@@ -12,8 +12,16 @@ First-order phase transitions in extensions of the Standard Model can generate o
 - Gravitational wave spectra
 - Detectability by the planned GW observatory LISA (Laser Interferometer Space Antenna)
 
-## 📁 Repository Structure
+## Software used
 
-- |── notebook/
-  |── TRSM.ipynb # Main analysis notebook
-  |
+This project uses the **CosmoTransitions** package by Carroll L. Wainwright (2012):
+
+*CosmoTransitions: Computing Cosmological Phase Transition Temperatures and Bubble Profiles with Multiple Fields*.
+
+If you use this work for academic research please cite @article{Wainwright2011,
+  title   = {CosmoTransitions: Computing Cosmological Phase Transitions},
+  author  = {Wainwright, Carroll L.},
+  journal = {arXiv preprint arXiv:1109.4189},
+  year    = {2012},
+  url     = {https://arxiv.org/abs/1109.4189}
+}
