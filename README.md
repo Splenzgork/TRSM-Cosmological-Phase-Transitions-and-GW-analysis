@@ -18,7 +18,10 @@ This project uses the **CosmoTransitions** package by Carroll L. Wainwright (201
 
 *CosmoTransitions: Computing Cosmological Phase Transition Temperatures and Bubble Profiles with Multiple Fields*.
 
-If you use this work for academic research please cite @article{Wainwright2011,
+If you use this work for academic research please cite:
+
+```bibtex
+ @article{Wainwright2011,
   title   = {CosmoTransitions: Computing Cosmological Phase Transitions},
   author  = {Wainwright, Carroll L.},
   journal = {arXiv preprint arXiv:1109.4189},
