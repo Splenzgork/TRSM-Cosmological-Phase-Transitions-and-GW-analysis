@@ -4,10 +4,9 @@ Investigation of the Two-Real-Singlet Model (TRSM) in the context of cosmologica
 
 ## Attribution
 
-Stefanos Papadopoulos 
-MSc Research Project  
-Stockholm University  
-stefacdc73@gmail.com
+*Stefanos Papadopoulos*
+MSc Research Project at Stockholm University  
+LinkedIn profile: linkedin.com/in/stefanos-papadopoulos-26a7b527b
 
 ## 🔬 Scientific Motivation
 
